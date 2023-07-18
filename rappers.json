@@ -1,0 +1,33 @@
+ {
+     "reportName": "My 3 Favorite rappers",
+     "reportCity": "Ontario",
+     "madeOn": "9 April 2022",
+     "rappers": [{
+         "name": "2 Pac Shakur",
+         "age": 25,
+         "TotalAlbums": "14",
+         "popularSongs": [
+             "We hit'em Up",
+             "Changes",
+             "Dear Mama"
+         ]
+     }, {
+         "name": "Eminem",
+         "age": 39,
+         "TotalAlbums": "11",
+         "popularSongs": [
+             "I'm not afraid",
+             "Monster",
+             "No love"
+         ]
+     }, {
+         "name": "Lil Wayne",
+         "age": 34,
+         "TotalAlbums": "5",
+         "popularSongs": [
+             "Mirror",
+             "A Milli",
+             "Tha Carter III"
+         ]
+     }]
+ }
